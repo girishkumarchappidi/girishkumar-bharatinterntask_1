@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#container {
+    margin:100px 550px;
+    width: 350px;
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: coral;
+}
+input[type="text"], input[type="button"] {
+    margin: 5px;
+    padding: 5px;
+}
